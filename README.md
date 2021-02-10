@@ -30,9 +30,9 @@ Def fun()
 [Google](''http//www.google.com/) 
 
 ## add Gmail link
-[gamil] ('' venkynaidu031@gmail.com'')
+[gmail] ('' venkynaidu031@gmail.com'')
 ## add college website link
-[website] (''kitscollege@Gmail.Com'') 
+[clg link] (''kitscollege@Gmail.Com'') 
 
 
 

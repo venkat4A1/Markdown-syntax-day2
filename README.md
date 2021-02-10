@@ -29,6 +29,14 @@ Def fun()
 ## links
 [Google](''http//www.google.com/) 
 
+## add Gmail link
+[gamil] ('' venkynaidu031@gmail.com'')
+## add college website link
+[website] (''kits college. Gmail. Com'') 
+
+
+
+
 - 
 
     

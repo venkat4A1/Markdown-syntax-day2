@@ -32,7 +32,7 @@ Def fun()
 ## add Gmail link
 [gamil] ('' venkynaidu031@gmail.com'')
 ## add college website link
-[website] (''kits college. Gmail. Com'') 
+[website] (''kitscollege@Gmail.Com'') 
 
 
 

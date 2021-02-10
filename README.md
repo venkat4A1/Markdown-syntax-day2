@@ -21,4 +21,12 @@ Def fun()
 ## function calling
 -
 fun() 
+## task
+---
+Def fun() 
+    Print(''hello word'') 
+---
+
+- 
+
     

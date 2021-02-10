@@ -33,6 +33,26 @@ Def fun()
 [gmail] ('' venkynaidu031@gmail.com'')
 ## add college website link
 [clg link] (''kitscollege@Gmail.Com'') 
+## git comands
+- git init
+- git status 
+- git  branch 
+- git and filename
+- git remote
+- git remote -v
+- git clone ''url''
+- git remote and remote me ''repolink''
+- git long
+- git long - - online 
+- git revert filename
+- git reset filename
+- git rm filename
+- git config user.name''useename''
+- git config user. Email ''user email''
+- git commit - m ''mesaage''
+- git push remotename branchname
+- gut pull remotename branchname
+
 
 
 
